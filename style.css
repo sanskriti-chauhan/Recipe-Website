@@ -141,7 +141,8 @@ html {
 }
 
 .mycontainer .home .back-image {
-    background-image: url("https://images.unsplash.com/photo-1615937722923-67f6deaf2cc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+    /* background-image: url("https://images.unsplash.com/photo-1615937722923-67f6deaf2cc9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"); */
+    background-image: url("https://images.ctfassets.net/uexfe9h31g3m/i66gQ8A0mImKIcakAW0uW/07e556439baba41881ee6dd9c5c90ba0/MincePieces_1024x768-3.jpg?w=768&h=512&fm=webp&fit=thumb&q=90");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
